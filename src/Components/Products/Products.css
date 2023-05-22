@@ -1,0 +1,140 @@
+.products{
+  
+    width: 100%;
+    height: 300px;
+    margin-top: 150px;
+    gap: 20px;
+     display: flex;
+    
+}
+.p1{
+    display: flex;
+    flex-direction: column;
+}
+.p1 span{
+  cursor:pointer;
+    margin-top: 5px;
+margin-left: 85px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p2 span{
+  cursor:pointer;
+    margin-top: 170px;
+margin-left: 50px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p3 span{
+    
+    margin-top: 170px;
+margin-left: 40px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p4 span{
+    cursor:pointer;
+    margin-top: 170px;
+margin-left: 50px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p5 span{
+    
+    margin-top: 170px;
+margin-left: 50px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p6 span{
+    cursor:pointer;
+    margin-top: 170px;
+margin-left: 40px;
+width: 108px;
+height: 21px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #1C1C1C;
+}
+.p1 img{
+   margin-left: 40px;
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#F1DBE9;
+    cursor:pointer;
+}
+.p2 img{
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#DDD3EB;
+    cursor:pointer;
+}
+.p3 img{
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#F1DBE9;
+    cursor:pointer;
+}
+.p4 img{
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#D3EAEB;
+    cursor:pointer;
+}
+.p5 img{
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#F1DADB;
+    cursor:pointer;
+}
+.p6 img{
+    border-radius: 120px 120px 120px 120px;
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    background-color:#D9F1DE;
+    cursor:pointer;
+}

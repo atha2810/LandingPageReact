@@ -1,0 +1,88 @@
+.list{
+    position:relative;
+    display: flex;
+    gap: 20px;
+}
+
+.mainImg{
+    flex: 1;
+    width: 264px;
+height: 412px;
+}
+
+.card:hover .mainImg{
+ filter: blur(5px);
+}
+.card:hover .iconList{
+ opacity: 1;
+}
+.icon{
+    padding: 20px;
+    cursor: pointer;
+    border-radius: 35px 35px 35px 35px;
+    background-color: aliceblue;
+    height: 15px;
+    width: 15px;
+}
+
+.iconList{
+    opacity: 0;
+    bottom: 350px;
+    margin-left: 25px;
+    position: absolute;
+    flex: 2;
+    display: flex;
+    gap: 20px;
+}
+
+.card span{ 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #1C1C1C;
+}
+
+.ptitle{
+    margin-left: 70px;
+   
+    height: 50px;
+    width: 130px;
+}
+
+.price{
+    height: 20px;
+    margin: 7px;
+    width: 80px;
+    margin-left: 90px;
+}
+
+.price span{
+    
+width: 47px;
+height: 18px;
+gap: 10px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+color: #1F1F1F;
+}
+
+.size{
+   
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.size button{
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    margin-right: 10px;   
+    border: 1px solid #E6E6E6;
+}

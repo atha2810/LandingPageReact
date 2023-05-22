@@ -1,0 +1,32 @@
+.categories{
+    gap: 10px;
+    position: absolute;
+    margin-top: 70px;
+width: 1120px;
+height: 468px;
+left: 170px;
+top: 1117px;
+}
+
+.row1 img{
+    height: 276px;
+    width: 550px;
+    cursor: pointer;
+}
+
+.row1{
+    display: flex;
+    gap: 20px;
+}
+.row2{
+    display: flex;
+    gap: 20px;
+}
+
+.row2 img{
+    cursor: pointer;
+    margin-top: 16px;
+    height: 176px;
+    width: 360px;
+    
+}

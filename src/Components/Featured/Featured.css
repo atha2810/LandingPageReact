@@ -1,0 +1,28 @@
+.featured{
+    position: absolute;
+top:3200px;
+left: 160px;
+}
+
+.heading{
+    height: 120px;
+}
+.featured h2{
+    
+    position: absolute;
+    width: 380px;
+    height: 48px;
+    padding-left: 400px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* Primary Color_1 */
+    
+    color: #1C1C1C;
+    }

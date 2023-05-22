@@ -1,0 +1,26 @@
+
+.subscribe{
+    z-index: 2;
+    position: absolute;
+    width: 1120px;
+    height: 312px;
+    left: 172.5px;
+    top: 8775.36px;
+    background: linear-gradient(97.3deg, #AB001E -6.23%, #770015 105.09%);
+}
+
+.subscribe img{
+  margin-top: 60px;
+  margin-left: 180px;
+  cursor: pointer;
+}
+
+.enter{
+    position: absolute;
+    width: 495px;
+    height: 65px;
+    left: 204.5px;
+    font-size: 30px;
+    margin-top: 183px;
+    background: rgba(255, 255, 255, 0.32);  
+}
