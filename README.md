@@ -7,9 +7,9 @@
 ## Website is Live : [https://atha2810.github.io/LandingPageReact/](https://atha2810.github.io/LandingPageReact/)
 
 # Screenshots
-![screenshot](Homepage.png)
-![screenshot](categories.png)
-![screenshot](Products.png)
+![screenshot](homepage.png)<h2>Homepage👆</h2>
+![screenshot](categories.png)<h2>Categories👆</h2>
+![screenshot](Products.png)<h2>Products👆</h2>
 
 # Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
